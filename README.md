@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Skydash - Free Bootstrap Template
 
 Skydash is the latest Bootstrap admin template from BootstrapDash. This template has been meticulously crafted to ensure the best possible experience for developers and users alike. This admin template is super easy to set up, modify and use. The clean design minimizes clutter and improves the overall user experience. Skydash is packed with all the features that fit your needs but not cramped with components you would not even use. It is an excellent fit to build admin panels, e-commerce systems, project management systems, CMS or CRM. It comes with a clean and well-commented code that makes it easy to work with the template. Thus making it an ideal pick for jump-starting your project.
@@ -102,3 +103,10 @@ Find us on
 Do you need a template with more features and functionalities? Get more with our collection of premium templates with more plugins, eye-catching animations, UI components, and sample pages all fitting together with a high-quality design. Visit https://www.bootstrapdash.com for more admin templates.
 
 Check out the premium version of [Skydash Bootstrap admin template](https://www.bootstrapdash.com/product/skydash-admin-template/)
+=======
+# Backoffice
+
+Framework based on [Material UI](https://material-ui-next.com), a Material UI
+React implementation that provided a couple of components you might want to use
+in a backoffice app.
+>>>>>>> Initial commit with Home component
