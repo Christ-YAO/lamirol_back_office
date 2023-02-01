@@ -1,11 +1,12 @@
 .main-panel {
-    width: calc(100% - 100px)!important;
+    width: 85% !important;
     
 }
 
 .main-panel .content-wrapper {
     padding: 10px 20px !important;
     margin: 0 !important;
+    width: 110%;
 }
 
 .main-panel thead tr th {
@@ -15,10 +16,16 @@
 
 .main-panel tbody tr td {
     font-size: 10px !important;
+    max-width: 300px;
+    overflow: hidden;
 }
 
 @media screen and (max-width: 1000px) {
     .main-panel {
         width: 100% !important;
+    }
+
+    .main-panel .content-wrapper {
+        width: 100%;
     }
 }
