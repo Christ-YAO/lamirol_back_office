@@ -1,0 +1,24 @@
+.main-panel {
+    width: calc(100% - 220px)!important;
+    
+}
+
+.main-panel .content-wrapper {
+    padding: 10px 20px !important;
+    margin: 0 !important;
+}
+
+.main-panel thead tr th {
+    font-size: 10px !important;
+    padding: 15px;
+}
+
+.main-panel tbody tr td {
+    font-size: 10px !important;
+}
+
+@media screen and (max-width: 1000px) {
+    .main-panel {
+        width: 100% !important;
+    }
+}
